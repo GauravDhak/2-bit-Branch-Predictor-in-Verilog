@@ -1,3 +1,10 @@
+
+/*
+File Name :Branch_prediction_algo.v (Verilog)
+Type      :Module
+Version   : 1.0
+Date      :07/24
+*/
 module BranchPredictor (
     input wire clk,            // Clock signal
     input wire reset,          // Reset signal
